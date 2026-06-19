@@ -1,0 +1,6 @@
+{
+  "name": "Aurum Grid",
+  "description": "Premium Decentralized Core Wallet, CPU Miner, and Staking Node based on the Aurum Protocol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
